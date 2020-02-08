@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Turning Point"
-  cover = "images/cover.jpg"
+  cover = "images/church.jpg"
   author = "Valère JEANTET"
   authorlocation = "Washington,D.C."
   authorwebsite = "http://placeholder.com"
