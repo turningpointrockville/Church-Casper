@@ -16,7 +16,7 @@ canonifyurls = true
   authorlocation = "Washington,D.C."
   authorwebsite = "http://placeholder.com"
   bio= "Turning Point"
-  logo = "images/Logo.png"
+  logo = "images/Logo.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
