@@ -28,3 +28,14 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "Meet The Family"
+  weight = -110
+  identifier = "family"
+  url = "/family"
