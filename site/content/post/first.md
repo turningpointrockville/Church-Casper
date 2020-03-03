@@ -1,5 +1,5 @@
 ---
-date: 2016-12-22T20:04:40.407Z
+date: 2020-03-01T00:04:40.407Z
 title: Turning Point Chruch
 ---
 13200 Arctic Ave Rockville Md 20853 301-942-0200
