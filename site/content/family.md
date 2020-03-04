@@ -7,6 +7,7 @@ tags = []
 
 ## Meet the Family 
 
-![alt text](https://github.com/MCMXCIII/Church-Casper/blob/master/site/static/images/Tim%20%26%20Kim.jpg "Pastors Tim and Kim")
-![alt text](https://github.com/MCMXCIII/Church-Casper/blob/master/site/static/images/Worship%203.jpg "Logo Title Text 1")
-![alt text](https://github.com/MCMXCIII/Church-Casper/blob/master/site/static/images/Worship.jpg "Logo Title Text 1")
+![](./Tim%20%26%20Kim.jpg "Pastors Tim and Kim")
+![](./Worship%203.jpg "Logo Title Text 1")
+![](./Worship.jpg "Logo Title Text 1")
+
