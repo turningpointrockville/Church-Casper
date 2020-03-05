@@ -5,7 +5,6 @@ title = "Meet The Family"
 tags = []
 +++
 
-## Meet the Family 
 
 ![](./Tim%20%26%20Kim.jpg "Pastors Tim and Kim")
 ![](./Worship%203.jpg "Logo Title Text 1")
