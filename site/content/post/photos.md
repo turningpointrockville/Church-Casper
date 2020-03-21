@@ -4,3 +4,4 @@ title: Turning Point Chruch
 ---
 
 ![Church](https://github.com/MCMXCIII/Church-Casper/raw/master/site/static/images/IMG-6436.JPG)
+<div><img src="https://github.com/MCMXCIII/Church-Casper/raw/master/site/static/images/IMG-6436.JPG" alt="coffee"></div>
