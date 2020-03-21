@@ -6,7 +6,7 @@ tags = []
 +++
 
 
-![](Tim%20%26%20Kim.jpg "Pastors Tim and Kim")
-![](Worship%203.jpg "Logo Title Text 1")
-![](Worship.jpg "Logo Title Text 1")
+![alt text](Tim%20%26%20Kim.jpg "Pastors Tim and Kim")
+![alt text](Worship%203.jpg "Logo Title Text 1")
+![alt text](Worship.jpg "Logo Title Text 1")
 
