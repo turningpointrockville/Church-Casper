@@ -44,5 +44,5 @@ canonifyurls = true
   [[menu.main]]
   name = "Events"
   weight = -120
-  identifier = "family photos"
+  identifier = "Events"
   url = "/events"
