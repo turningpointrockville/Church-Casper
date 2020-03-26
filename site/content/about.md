@@ -4,4 +4,5 @@ draft = false
 title = "About"
 
 +++
-TPC is an multicultural, multigenerational Baptist church located in the Aspen Hill area of Rockville, MD, and is adjacent to Silver Spring, Bethesda, Rockville proper and Gaithersburg. It was established in 1962. TPC sits on 3 acres of land along one of the city’s major thoroughfares. It consists of a modern 6,200 square foot building that includes a fences children’s play area, large sanctuary, nursery, classroom, fellowship hall, handicapped accessible restrooms and other amenities. »
+We attempt to change lives through: Worship / Fellowship /Discipleship /Ministry / Evangelism
+TPC is a spirited Bible-based interracial, multicultural, multigenerational Baptist church located in the Aspen Hill area of Rockville, MD.TPC was established in 1962 and sits on 3 acres of land along one of the city’s major thoroughfares. Our church consists of a modern 6,200 square foot building that includes a fenced children’s play area, large sanctuary, nursery, classroom, fellowship hall, handicapped accessible restrooms and other amenities.  >>>
