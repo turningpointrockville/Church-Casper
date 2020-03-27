@@ -41,6 +41,12 @@ canonifyurls = true
   identifier = "family photos"
   url = "/family"
   
+ [[menu.main]]
+  name = "Gallery"
+  weight = -100
+  identifier = "fallery"
+  url = "/picnic-gallery" 
+  
   [[menu.main]]
   name = "Events"
   weight = -120
